@@ -28,5 +28,4 @@ def find_the_cheese(arg)
       if i.include?(a)
         return a
       end}}
-      nil
 end
